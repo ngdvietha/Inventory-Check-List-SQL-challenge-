@@ -1,0 +1,7 @@
+﻿container,floor_location_id,carton_ids,non_conforming_carton_ids
+MSKU907032,B1,1-10,"3,5"
+MSKU907032,B2,11,
+MSKU907032,B3,"12,13",12
+MSKU907032,B4,14,
+BICU2102845,B60,2,
+BICU2102845,B70,3-5,
